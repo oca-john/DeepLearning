@@ -1,15 +1,13 @@
 # 		DeepLearning Tutorial
 ## 一. 入门资料
 
-[**完备的 AI 学习路线，最详细的中英文资源整理**](https://zhuanlan.zhihu.com/p/64052743) :star:
+[**完备的 AI 学习路线**](https://zhuanlan.zhihu.com/p/64052743) :star:
 
 [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NL](https://github.com/apachecn/AiLearning)
 
 [Machine-Learning](https://github.com/shunliz/Machine-Learning)
 
 ### 数学基础
-
-![](notes/Images/MathematicalBasis.png)
 
 * [矩阵微积分](https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%98%B5%E5%BE%AE%E7%A7%AF%E5%88%86)
 * [机器学习的数学基础](https://github.com/fengdu78/Data-Science-Notes/tree/master/0.math/0.basic)
